@@ -1,0 +1,82 @@
+{
+    "imgUrl": "http:\/\/src1.youshuyun.cn\/data\/a_bc889_3e88f\/a_bc889\/0_1595574171.166545\/cloud.js",
+    "marks": [
+        {
+            "position": {
+                "x": 9.9837842119417,
+                "y": 0.52325447067893,
+                "z": -0.94571414466349
+            },
+            "scale": {
+                "x": 3.5659037063216,
+                "y": 2.2322065145267,
+                "z": 1.8143815096183
+            },
+            "ptitle": "car",
+            "name": "tt-1",
+            "index": 1,
+            "type": "volume",
+            "property": [
+                [
+                    {
+                        "id": 0,
+                        "pcode": "9cc6d698",
+                        "ptitle": "tt",
+                        "pname": "t t",
+                        "prevcode": "",
+                        "parentid": "face9139",
+                        "angle": false,
+                        "is_instance": "undefined",
+                        "checkIndex": -1
+                    }
+                ]
+            ],
+            "objectId": "",
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": 0.069153621962038
+            }
+        },
+        {
+            "position": {
+                "x": 22.95691107364,
+                "y": -10.821176685434,
+                "z": -1.0987877424867
+            },
+            "scale": {
+                "x": 1.9595300500168,
+                "y": 0.86215065604598,
+                "z": 1.8697746550979
+            },
+            "ptitle": "person",
+            "name": "ss-2",
+            "index": 2,
+            "type": "volume",
+            "property": [
+                [
+                    {
+                        "id": 0,
+                        "pcode": "78420981",
+                        "ptitle": "ss",
+                        "pname": "s s",
+                        "prevcode": "",
+                        "parentid": "face9139",
+                        "angle": false,
+                        "is_instance": "undefined",
+                        "checkIndex": -1
+                    }
+                ]
+            ],
+            "objectId": "",
+            "rotation": {
+                "x": 0,
+                "y": 0,
+                "z": -2.7397220061493
+            }
+        }
+    ],
+    "cameraMarks": [],
+    "missingPreservation": 0,
+    "markStatus": 0
+}
